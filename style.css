@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.nav-section{
+    background-color:whitesmoke;
+    margin-bottom: 8px;
+}
+  .second-header{
+    background-color:whitesmoke;
+}
+.container h1{
+    margin-bottom: 5px;
+}
+
+.second-header h1 span{
+ color: salmon;
+ 
+}
+
+.highlight{
+    color: lightsalmon;
+}
+.customize-card{
+    background-color: white;
+}
+.customize-footer{
+    background-color: white;
+}
+
+.btn-customize{
+    background-color: blue;
+    color: white;
+    border-radius: 10px solid blue;
+    font-size:  0.8rem;
+    font-weight: 400;
+}
+.fa-shopping-cart{
+    background-color: blue;
+    color:white;
+    padding:3px;
+    font-size:0.8rem;
+
+}
+.customize-card{
+    align-items: center;
+    border: 0;
+    background-color: white;
+    border-radius: 10px;
+}
+.customize-footer{
+    border:0;
+    align-items: center;
+    justify-content: end;
+
+}
+.customize-footer button{
+    font-size: 0.8rem;
+
+
+}
+.featured img{
+    width: 60%;
+    height: 400px;
+    justify-content: center;
+}
+
+.extra-section{
+    border: 0;
+    background-color: rgb(216, 205, 205);
+    
+}
+.extra h5{
+    color:lightseagreen;
+    font-size: 40px;
+   
+}
+
+.title-text {
+    color:rgb(245, 178, 9);
+    font-size:20px;
+    
+
+}
+
